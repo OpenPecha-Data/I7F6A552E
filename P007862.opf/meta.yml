@@ -1,15 +1,16 @@
-id: opecha:P007862
+id: P007862
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG3167
   title: དབུ་མ་རྩ་བ་ཤེས་རབ་ཀྱི་མཆན་འགྲེལ
-  volume:
+  author: ''
+  volumes:
     472a015ef52f485d90330693f2d072ef:
       image_group_id: I1KG3199
       title: Volume 1 of dbu ma rtsa ba shes rab kyi mchan 'grel
       volume_number: 1
       total_pages: 408
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: དབུ་མ་རྩ་བ་ཤེས་རབ་ཀྱི་མཆན་འགྲེལ
   author: ''
